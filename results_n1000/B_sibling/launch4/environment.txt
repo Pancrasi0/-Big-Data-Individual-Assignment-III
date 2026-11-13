@@ -22,4 +22,4 @@ timer = System.nanoTime (monotonic)
 timed_region = multiplication call only; inputs generated outside; output array allocated outside; zero-fill of the output inside the kernel; thread pool created and started outside; task submission and join inside
 tolerance = abs 1.0E-12, rel 1.0E-9
 compiler_flags = javac -d out (see scripts/build.sh)
-other_load_on_machine = FILL IN
+other_load_on_machine = No other applications running

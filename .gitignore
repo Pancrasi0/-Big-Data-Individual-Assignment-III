@@ -1,0 +1,5 @@
+out/
+*.class
+*.zip
+*.tar.gz
+__pycache__/
