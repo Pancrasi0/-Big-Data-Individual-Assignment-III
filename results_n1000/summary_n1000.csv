@@ -1,0 +1,8 @@
+config,launches,median_of_launch_medians_ms,min_launch_ms,max_launch_ms,max_within_launch_iqr_ms,slow_launches
+A_noaffinity/sequential/p1,5,524.75,523.09,614.65,3.56,1
+A_noaffinity/parallel/p1,5,529.51,524.02,614.9,3.96,1
+A_noaffinity/parallel/p2,5,264.8,264.35,265.68,1.58,0
+A_noaffinity/parallel/p4,5,132.94,132.52,157.35,0.55,1
+B_physical/parallel/p2,5,266.46,262.83,329.85,2.0,1
+B_sibling/parallel/p2,5,513.18,513.03,521.05,4.65,0
+B_single/parallel/p1,5,537.38,529.28,565.67,4.42,0
