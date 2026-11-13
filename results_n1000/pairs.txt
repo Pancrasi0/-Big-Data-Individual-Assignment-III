@@ -1,0 +1,2 @@
+physical_pair=0,1 sibling_pair=0,6
+performance

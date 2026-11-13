@@ -1,0 +1,147 @@
+physical_pair=0,1 sibling_pair=0,6
+=== Lanzamiento 1 / 5 ===
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_sequential(threads=1) done
+Raw measurements: results_n1000/A_noaffinity/launch1/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=1) done
+Raw measurements: results_n1000/A_noaffinity/launch1/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=2) done
+Raw measurements: results_n1000/A_noaffinity/launch1/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=4) done
+Raw measurements: results_n1000/A_noaffinity/launch1/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=2) done
+Raw measurements: results_n1000/B_physical/launch1/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=2) done
+Raw measurements: results_n1000/B_sibling/launch1/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=1) done
+Raw measurements: results_n1000/B_single/launch1/raw_measurements.csv (sink=1.799819100910599E10)
+=== Lanzamiento 2 / 5 ===
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_sequential(threads=1) done
+Raw measurements: results_n1000/A_noaffinity/launch2/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=1) done
+Raw measurements: results_n1000/A_noaffinity/launch2/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=2) done
+Raw measurements: results_n1000/A_noaffinity/launch2/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=4) done
+Raw measurements: results_n1000/A_noaffinity/launch2/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=2) done
+Raw measurements: results_n1000/B_physical/launch2/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=2) done
+Raw measurements: results_n1000/B_sibling/launch2/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=1) done
+Raw measurements: results_n1000/B_single/launch2/raw_measurements.csv (sink=1.799819100910599E10)
+=== Lanzamiento 3 / 5 ===
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_sequential(threads=1) done
+Raw measurements: results_n1000/A_noaffinity/launch3/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=1) done
+Raw measurements: results_n1000/A_noaffinity/launch3/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=2) done
+Raw measurements: results_n1000/A_noaffinity/launch3/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=4) done
+Raw measurements: results_n1000/A_noaffinity/launch3/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=2) done
+Raw measurements: results_n1000/B_physical/launch3/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=2) done
+Raw measurements: results_n1000/B_sibling/launch3/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=1) done
+Raw measurements: results_n1000/B_single/launch3/raw_measurements.csv (sink=1.799819100910599E10)
+=== Lanzamiento 4 / 5 ===
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_sequential(threads=1) done
+Raw measurements: results_n1000/A_noaffinity/launch4/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=1) done
+Raw measurements: results_n1000/A_noaffinity/launch4/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=2) done
+Raw measurements: results_n1000/A_noaffinity/launch4/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=4) done
+Raw measurements: results_n1000/A_noaffinity/launch4/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=2) done
+Raw measurements: results_n1000/B_physical/launch4/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=2) done
+Raw measurements: results_n1000/B_sibling/launch4/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=1) done
+Raw measurements: results_n1000/B_single/launch4/raw_measurements.csv (sink=1.799819100910599E10)
+=== Lanzamiento 5 / 5 ===
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_sequential(threads=1) done
+Raw measurements: results_n1000/A_noaffinity/launch5/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=1) done
+Raw measurements: results_n1000/A_noaffinity/launch5/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=2) done
+Raw measurements: results_n1000/A_noaffinity/launch5/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=4) done
+Raw measurements: results_n1000/A_noaffinity/launch5/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=2) done
+Raw measurements: results_n1000/B_physical/launch5/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=2) done
+Raw measurements: results_n1000/B_sibling/launch5/raw_measurements.csv (sink=1.799819100910599E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 242/242 passed.
+  n=1000 ikj_parallel(threads=1) done
+Raw measurements: results_n1000/B_single/launch5/raw_measurements.csv (sink=1.799819100910599E10)
+Hecho. Envía results_n1000.tar.gz
