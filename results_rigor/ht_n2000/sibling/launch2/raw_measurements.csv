@@ -1,0 +1,13 @@
+method,n,threads,seed,numeric_type,rep,phase,time_ns,est_storage_bytes,heap_used_bytes,peak_rss_kb,checksum,verified,status
+ikj_parallel,2000,2,42,double,1,warmup,4616918619,,,,,NA,OK
+ikj_parallel,2000,2,42,double,2,warmup,4629224205,,,,,NA,OK
+ikj_parallel,2000,2,42,double,3,warmup,4626602990,,,,,NA,OK
+ikj_parallel,2000,2,42,double,1,multiply,4625235669,,,,1.8002483117627605E10,NA,OK
+ikj_parallel,2000,2,42,double,2,multiply,4627370457,,,,1.8002483117627605E10,NA,OK
+ikj_parallel,2000,2,42,double,3,multiply,4625753548,,,,1.8002483117627605E10,NA,OK
+ikj_parallel,2000,2,42,double,4,multiply,4625023280,,,,1.8002483117627605E10,NA,OK
+ikj_parallel,2000,2,42,double,5,multiply,4582522291,,,,1.8002483117627605E10,NA,OK
+ikj_parallel,2000,2,42,double,6,multiply,4637654458,,,,1.8002483117627605E10,NA,OK
+ikj_parallel,2000,2,42,double,7,multiply,4623522061,,,,1.8002483117627605E10,NA,OK
+ikj_parallel,2000,2,42,double,,verify,,,,,1.8002483117627605E10,PASS,OK
+ikj_parallel,2000,2,42,double,,memory,,96000000,97808400,420068,,NA,OK

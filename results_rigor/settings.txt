@@ -1,0 +1,11 @@
+start=2026-11-13T22:36:18
+governor=performance
+sizes_extra_launches=[250, 500, 1000, 2000, 3000]
+threads=[1, 2, 4, 6, 8, 12, 16]
+launches=2..3 (launch 1 = results/)
+jvm_flags=-Xms4g -Xmx4g -XX:+UseParallelGC
+common=--warmup 3 --reps 7 --seed 42 --max-seconds 240 --mem-budget-mb 8192
+ht_size=2000
+physical_pair=0,1
+sibling_pair=0,6
+end=2026-11-13T23:11:41
